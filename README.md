@@ -50,4 +50,6 @@ This project demonstrates key concepts in Cybersecurity and Software Engineering
 pip install flask
 
 # Run the C2 Server
+git clone https://github.com/devnand-47/HydraC2.git
+cd HydraC2
 python main.py
